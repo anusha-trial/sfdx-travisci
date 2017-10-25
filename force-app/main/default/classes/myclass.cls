@@ -3,7 +3,7 @@ public with sharing class myclass {
 
 	}
 
-	public myclass(Interger i) {
+	public myclass(Integer i) {
 
 	}
 
