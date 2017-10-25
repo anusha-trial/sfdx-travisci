@@ -3,7 +3,7 @@ public with sharing class myclass {
 
 	}
 
-	public myclass(String s) {
+	public myclass(Interger i) {
 
 	}
 
